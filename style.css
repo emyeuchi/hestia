@@ -58,7 +58,7 @@ nav {
 .content {
   height: 100vh;
   background: url(berta_hestias.png);
-  margin: 100px 0 0 auto;
+  margin: -20px 0 0 20px;
 }
 .guide {
   display: table;
@@ -68,6 +68,7 @@ nav {
   display: table-cell;
   padding: 80px;
   width: 33%;
+  height: 300px;
   background: yellow;
   position: relative;
 }
@@ -75,6 +76,7 @@ nav {
   display: table-cell;
   padding: 80px;
   width: 33%;
+  height: 100%;
   background: green;
   position: relative;
 }
@@ -82,5 +84,6 @@ nav {
   display: table-cell;
   padding: 80px;
   width: 34%;
+  height: 100%;
   background: red;
 }
