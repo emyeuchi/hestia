@@ -40,4 +40,6 @@ header {
   width: 100%;
   padding: 30px 4% 10px;
   background-color: #233B6C;
+  position: fixed;
+  top: 0;
 }
