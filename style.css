@@ -1,18 +1,7 @@
 <meta charset="utf-8">
-.header{
-  display flex;
-  max-width 1100px;
-  margin 0 auto;
-  padding 0 4%;
-  justify-content space-between;
-}
-#home{
-  background-image url(berta hestias.png);
-  background-color #f6f5f4;
-  min-height 100vh;
-}
 h1 { 
-  color: white !importantmargin: 0; 
+  color: white !important;
+  margin: 0; 
   padding: 0;
   font-size: 30px;
 }
@@ -64,4 +53,17 @@ nav {
 .logo{
   width 15px;
   height 6px;  
+}
+/* 中身*/
+.content {
+  height: 100vh;
+  background: url("berta_hestias.png") top center / cover no-repeat;
+}
+.guide {
+}
+.guide1{
+}
+.guide2{
+}
+.guide3{
 }
