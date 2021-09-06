@@ -1,8 +1,7 @@
 <meta charset="utf-8">
 .logo{
-width 40px;
-height 40px;  
-margin-top 14px;
+  width 20px;
+  height 8px;  
 }
 .header{
   display flex;
