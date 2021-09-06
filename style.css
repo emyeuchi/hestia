@@ -27,14 +27,4 @@ h3 { color: lightblue !important }
 .Liene {
     font-family: "liene";
 }
-/* Sidebar*/
-.side {
-  text-align:center;
-} 
-.content {
-  text-align:center;
-  margin-left:10px;
-}
-article {
-  display:flex;
-}
+/* ヘッダー*/
