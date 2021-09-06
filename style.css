@@ -57,8 +57,8 @@ nav {
 /* 中身*/
 .content {
   height: 100vh;
-  background: url("berta_hestias.png") top center / cover no-repeat;
-  margin: 50px 0 0 0;
+  background: url(berta_hestias.png);
+  margin: 50px 0 0 auto;
 }
 .guide {
   display: flex;
