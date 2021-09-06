@@ -28,7 +28,7 @@ header {
   width: 100%;
   padding: 30px 4% 10px;
   background-color: royalblue;
-  position: fixed;
+  /*position: fixed; /
   top: 0;
   display: flex;
   align-items: center;
@@ -58,16 +58,29 @@ nav {
 .content {
   height: 100vh;
   background: url(berta_hestias.png);
-  margin: 50px 0 0 auto;
+  margin: 100px 0 0 auto;
 }
 .guide {
-  display: flex;
-  margin: 0 0 0 20px;
-}
+  display: table;
+  width: 100%;
 }
 .guide1{
+  display: table-cell;
+  padding: 80px;
+  width: 33%;
+  background: yellow;
+  position: relative;
 }
 .guide2{
+  display: table-cell;
+  padding: 80px;
+  width: 33%;
+  background: green;
+  position: relative;
 }
 .guide3{
+  display: table-cell;
+  padding: 80px;
+  width: 34%;
+  background: red;
 }
