@@ -58,3 +58,10 @@ ul {
   margin: 0;
   display: flex;
 }
+li {
+  margin: 0 0 0 15px;
+  font-size: 14px;
+}
+nav {
+   margin: 0 0 0 auto;
+}
