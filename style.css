@@ -60,6 +60,8 @@ nav {
   background: url("berta_hestias.png") top center / cover no-repeat;
 }
 .guide {
+  display: flex;
+}
 }
 .guide1{
 }
