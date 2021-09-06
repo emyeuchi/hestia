@@ -58,10 +58,11 @@ nav {
 .content {
   height: 100vh;
   background: url("berta_hestias.png") top center / cover no-repeat;
+  margin: 50px 0 0 0;
 }
 .guide {
   display: flex;
-  margin: 50px 0 0 0;
+  margin: 0 0 0 20px;
 }
 }
 .guide1{
