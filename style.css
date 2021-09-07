@@ -66,16 +66,15 @@ nav {
   display: flex;
   width:auto;
   margin: 0 0 0 0;
-  border: solid 3px #6091d3;
-  border-radius: 10px;
+
 }
 .guide_1 {
   flex-shrink: 0;
   padding: 80px;
   height: 300px;
-  width: 33.33%;
+  width: 50%;
   margin: 0 0 0 30px;
-  background: yellow;
+  background: blue;
   position: relative;
   border: solid 3px #6091d3;
   border-radius: 10px;
