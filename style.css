@@ -80,13 +80,17 @@ nav {
   border-radius: 10px;
 }
 */
-/*フッター*/
 footer {
   width: 100%;
-  padding: 10px 4% 10px;
+  padding: 10px 0 10px;
   background-color: royalblue;
   position: fixed;
   bottom: 0;
   display: flex;
+}
+b { 
+  text-decoration: none;
+  color: white;
+  margin: 0 0 0 0;
   text-align: center;
 }
