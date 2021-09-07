@@ -25,7 +25,7 @@ body {
   color: white;
   background: url(berta_hestias.png);
   background-color: white;
-  font: "游ゴシック", sans-serif;
+  font-family: "游ゴシック", sans-serif;
 }
 header {
   width: 100%;
@@ -63,6 +63,14 @@ nav {
   height: 100vh;
   margin: 150px 20px 0 20px;
 }
+.nolf {
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  color: white;/*文字色*/
+  background: royalblue;
+  border: solid 3px white;/*線*/
+  border-radius: 10px;/*角の丸み*/
+}
 /*
 .guide {
   display: flex;
@@ -89,9 +97,9 @@ footer {
   bottom: 0;
   display: flex;
 }
-b { 
+.footer { 
   text-decoration: none;
   color: white;
-  margin: 0 0 0 0;
+  margin: 10 0 0 0;
   text-align: center;
 }
