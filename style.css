@@ -57,33 +57,35 @@ nav {
 }
 /* 中身*/
 .content {
+  width: auto
   height: 100vh;
   margin: -20px 20px 0 20px;
 }
 .guide {
-  display: table;
-  width: 100%;
+  display: flex;
+  width:auto;
+  margin: 0 0 0 30px;
 }
 .guide1{
-  display: table-cell;
   padding: 80px;
   width: 33%;
   height: 300px;
+  margin: 0 0 0 30px;
   background: yellow;
   position: relative;
 }
 .guide2{
-  display: table-cell;
   padding: 80px;
   width: 33%;
   height: 100%;
+  margin: 0 0 0 30px;
   background: green;
   position: relative;
 }
 .guide3{
-  display: table-cell;
   padding: 80px;
   width: 34%;
   height: 100%;
+  margin: 0 0 0 30px;
   background: red;
 }
