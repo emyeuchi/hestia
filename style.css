@@ -72,41 +72,10 @@ nav {
   flex-shrink: 0;
   padding: 80px;
   height: 300px;
-  width: 50%;
-  margin: 0 0 0 30px;
+  width: 25%;
+  margin: 10px 15px 0 15px;
   background: blue;
   position: relative;
   border: solid 3px #6091d3;
   border-radius: 10px;
 }
-/*
-.history{
-  padding: 80px;
-  width: 33%;
-  height: 300px;
-  margin: 0 0 0 30px;
-  background: yellow;
-  position: relative;
-  border: solid 3px #6091d3;
-  border-radius: 10px;
-}
-.media{
-  padding: 80px;
-  width: 33%;
-  height: 100%;
-  margin: 0 0 0 30px;
-  background: green;
-  position: relative;
-  border: solid 3px #6091d3;
-  border-radius: 10px;
-}
-.language{
-  padding: 80px;
-  width: 34%;
-  height: 100%;
-  margin: 0 0 0 30px;
-  background: red;
-  border: solid 3px #6091d3;
-  border-radius: 10px;
-}
-*/
