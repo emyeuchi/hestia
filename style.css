@@ -58,7 +58,7 @@ nav {
 }
 /* 中身*/
 .content {
-  width: auto
+  width: auto;
   height: 100vh;
   margin: -20px 20px 0 20px;
 }
@@ -67,6 +67,17 @@ nav {
   width:auto;
   margin: 0 0 0 30px;
 }
+.guide1{
+  display: inline-block;
+  padding: 80px;
+  width: 33%;
+  height: 300px;
+  margin: 0 0 0 30px;
+  background: yellow;
+  position: relative;
+  border: solid 3px #6091d3;
+  border-radius: 10px;
+/*
 .history{
   padding: 80px;
   width: 33%;
@@ -96,3 +107,4 @@ nav {
   border: solid 3px #6091d3;
   border-radius: 10px;
 }
+*/
